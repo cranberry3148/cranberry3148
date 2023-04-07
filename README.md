@@ -3,8 +3,6 @@
 [![An image of @dust3011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dust3011)](https://holopin.io/@dust3011)
 
 ##### 🔭 I’m currently working on:
-- [ReactSelfbot](https://github.com/FlawCra/ReactSelfbot)
-- [ThatSoundboard](https://github.com/CoasterFreakDE/soundboard-dashboard)
 - [FlawCraLIB](https://github.com/FlawCra/FlawCraLIB)
 - [UserScripts](https://github.com/FlawCra/UserScripts)
 - [is-the-snapshot.live](https://is-the-snapshot.live)
