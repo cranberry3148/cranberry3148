@@ -15,4 +15,8 @@
 ##### Stats
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=Lion0565&api_domain=wakapi.flawcra.cc&hide_border=true&bg_color=171717&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Stats&layout=compact&range=all_time)
 
- ![Snake animation](https://github.com/Xanax-C-137/Xanax-C-137/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xanax-C-137/Xanax-C-137/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xanax-C-137/Xanax-C-137/output/github-contribution-grid-snake.svg" />
+  <img alt="Snek" src="https://raw.githubusercontent.com/Xanax-C-137/Xanax-C-137/output/github-contribution-grid-snake.svg" />
+</picture>
