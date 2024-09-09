@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=Lion0565&api_domain=wakapi.flawcra.cc&hide_border=true&bg_color=171717&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Stats&layout=compact&range=all_time)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://xanax-c-137.github.io/Xanax-C-137/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://xanax-c-137.github.io/Xanax-C-137/github-contribution-grid-snake.svg" />
-  <img alt="Snek" src="https://xanax-c-137.github.io/Xanax-C-137/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cranberry3148.github.io/cranberry3148/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cranberry3148.github.io/cranberry3148/github-contribution-grid-snake.svg" />
+  <img alt="Snek" src="https://cranberry3148.github.io/cranberry3148/github-contribution-grid-snake.svg" />
 </picture>
