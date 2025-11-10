@@ -2,11 +2,6 @@
 
 [![An image of @dust3011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dust3011)](https://holopin.io/@dust3011)
 
-##### 🔭 I’m currently working on:
-- [FlawCraLIB](https://github.com/FlawCra/FlawCraLIB)
-- [UserScripts](https://github.com/FlawCra/UserScripts)
-- [is-the-snapshot.live](https://is-the-snapshot.live)
-
 ##### Specs
 - ![CPU](https://img.shields.io/badge/AMD-Ryzen_7_5800X-f36523?style=for-the-badge&logo=amd)
 - ![GPU](https://img.shields.io/badge/NVIDIA-RTX_4060_TI_16GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
